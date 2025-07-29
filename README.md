@@ -1,6 +1,7 @@
 # 📊 Desafio Final - Bootcamp de Ciência de Dados
 
-Este repositório contém o notebook de entrega do desafio final do Bootcamp de Ciência de Dados, desenvolvido por **Wallingson**. O projeto realiza uma análise exploratória e descritiva do consumo de energia elétrica por região e tipo de consumidor no Brasil.
+Este repositório contém o notebook de entrega do desafio final do Bootcamp de Ciência de Dados, desenvolvido por **Wallingson**. 
+O projeto realiza uma análise exploratória e descritiva do consumo de energia elétrica por região e tipo de consumidor no Brasil.
 
 ## 🧾 Objetivo
 
